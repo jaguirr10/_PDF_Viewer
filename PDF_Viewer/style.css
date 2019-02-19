@@ -1,0 +1,76 @@
+
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+.top-bar {
+
+  background: #06beb6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #48b1bf, #06beb6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #48b1bf, #06beb6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+  color: #fff;
+
+  padding: 1rem;
+
+}
+
+
+
+.btn {
+
+  background: coral;
+
+  color: #fff;
+
+  border: none;
+
+  outline: none;
+
+  cursor: pointer;
+
+  padding: 0.7rem 2rem;
+
+-webkit-box-shadow: 5px 5px 37px -8px #000000; 
+box-shadow: 5px 5px 37px -8px #000000;
+
+
+}
+
+
+
+.btn:hover {
+
+  opacity: 0.9;
+
+}
+
+
+
+.page-info {
+
+  margin-left: 1rem;
+
+}
+
+
+
+.error {
+
+  background: orangered;
+
+  color: #fff;
+
+  padding: 1rem;
+
+}
+
